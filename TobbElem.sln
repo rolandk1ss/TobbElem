@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "macskak", "macskak\macskak.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valsami", "valsami\valsami.csproj", "{14BAC372-92F9-4618-8B3E-B35C3F45A356}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prefix", "prefix\prefix.csproj", "{3C75C905-6DE7-4880-8222-C68628356870}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{14BAC372-92F9-4618-8B3E-B35C3F45A356}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14BAC372-92F9-4618-8B3E-B35C3F45A356}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14BAC372-92F9-4618-8B3E-B35C3F45A356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C75C905-6DE7-4880-8222-C68628356870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C75C905-6DE7-4880-8222-C68628356870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C75C905-6DE7-4880-8222-C68628356870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C75C905-6DE7-4880-8222-C68628356870}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
