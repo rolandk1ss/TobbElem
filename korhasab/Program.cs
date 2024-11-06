@@ -29,7 +29,14 @@ namespace korhasab
             kor2 k21 = new kor2(24.5);
             Console.WriteLine($"A kör adaitai: Sugár={k21.getsugar()},\n Kerülete= {k21.getkerulet()},\n Területe= {k21.getterulet()} ");
             #endregion kor2
-            
+            Console.ReadKey();
+
+            #region henger szamitas
+            henger h1 = new henger(15, 30);
+            Console.WriteLine($"\n A henger adatai: Sugara=  {h1.GetSugar()},\n Magassága= {h1.gettmagassag()},\n Alapterülete= {h1.GetTerulet()},\n Térfogata= {h1.getterfogat()}");
+            #endregion henger
+            Console.ReadKey();
+
         }
     }
 }

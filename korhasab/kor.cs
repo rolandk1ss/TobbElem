@@ -17,13 +17,7 @@ namespace korhasab
         //formális paraméter és akutális paraméter
 
 
-
-
-
-
-
-
-        private double sugar,
+        protected double sugar,
         kerulet,
         terulet;
 

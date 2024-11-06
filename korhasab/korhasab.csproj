@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="henger.cs" />
     <Compile Include="kor2.cs" />
     <Compile Include="kor.cs" />
     <Compile Include="Program.cs" />
