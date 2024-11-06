@@ -12,7 +12,17 @@ namespace korhasab
 
         //Osztályváltozók
 
-        //Konstruktoro
+        //A Konstruktor objektum példát hoz létre
+        //metódus, van visszatérési értékük
+        //formális paraméter és akutális paraméter
+
+
+
+
+
+
+
+
         private double sugar,
         kerulet,
         terulet;
