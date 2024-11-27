@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "korhasab", "korhasab\korhas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tegla", "tegla\tegla.csproj", "{136A5D80-DC6D-44E8-A785-84DDA64A75E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaromszogTipusaOOP", "HaromszogTipusaOOP\HaromszogTipusaOOP.csproj", "{94821A60-64B4-40AA-8BDE-9935083510BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{136A5D80-DC6D-44E8-A785-84DDA64A75E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{136A5D80-DC6D-44E8-A785-84DDA64A75E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{136A5D80-DC6D-44E8-A785-84DDA64A75E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94821A60-64B4-40AA-8BDE-9935083510BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94821A60-64B4-40AA-8BDE-9935083510BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94821A60-64B4-40AA-8BDE-9935083510BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94821A60-64B4-40AA-8BDE-9935083510BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
