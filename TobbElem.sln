@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.34301.259
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TobbElem", "TobbElem\TobbElem.csproj", "{DB70DEDB-E9E7-4EB9-A542-BF988C5D211E}"
 EndProject
@@ -20,6 +20,18 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaromszogTipusaOOP", "HaromszogTipusaOOP\HaromszogTipusaOOP.csproj", "{94821A60-64B4-40AA-8BDE-9935083510BE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kivetel", "Kivetel\Kivetel.csproj", "{6AD7777E-4098-4BAC-888E-6510FB82257D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliformOOP", "PoliformOOP\PoliformOOP.csproj", "{8D0A9E29-0D9E-407A-8B10-174AE1E2611F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gettersetter", "gettersetter\gettersetter.csproj", "{90ADB1B2-56D0-48AE-A971-8407914E44D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstract", "abstract\abstract.csproj", "{9F9D5BAB-36AB-46BA-8E26-00ADD92C7047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.4.FormMozg", "19.04.FormMozg\19.4.FormMozg.csproj", "{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{1E91FD56-88CF-4E35-9986-27D37FEC47A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snooker", "snooker\snooker.csproj", "{5451CC1B-4386-451A-8D0B-7784912C045F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +75,30 @@ Global
 		{6AD7777E-4098-4BAC-888E-6510FB82257D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AD7777E-4098-4BAC-888E-6510FB82257D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AD7777E-4098-4BAC-888E-6510FB82257D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0A9E29-0D9E-407A-8B10-174AE1E2611F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0A9E29-0D9E-407A-8B10-174AE1E2611F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0A9E29-0D9E-407A-8B10-174AE1E2611F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0A9E29-0D9E-407A-8B10-174AE1E2611F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90ADB1B2-56D0-48AE-A971-8407914E44D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90ADB1B2-56D0-48AE-A971-8407914E44D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90ADB1B2-56D0-48AE-A971-8407914E44D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90ADB1B2-56D0-48AE-A971-8407914E44D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9D5BAB-36AB-46BA-8E26-00ADD92C7047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9D5BAB-36AB-46BA-8E26-00ADD92C7047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9D5BAB-36AB-46BA-8E26-00ADD92C7047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9D5BAB-36AB-46BA-8E26-00ADD92C7047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E91FD56-88CF-4E35-9986-27D37FEC47A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E91FD56-88CF-4E35-9986-27D37FEC47A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E91FD56-88CF-4E35-9986-27D37FEC47A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E91FD56-88CF-4E35-9986-27D37FEC47A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5451CC1B-4386-451A-8D0B-7784912C045F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5451CC1B-4386-451A-8D0B-7784912C045F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5451CC1B-4386-451A-8D0B-7784912C045F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5451CC1B-4386-451A-8D0B-7784912C045F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
